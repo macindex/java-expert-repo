@@ -46,5 +46,6 @@ Para estudar de forma mais organizada, consulte os guias abaixo:
 * [Arquitetura, resiliência e idempotência](java-expert-consultation/03-architecture-resilience.md)
 * [Mensageria e observabilidade](java-expert-consultation/04-messaging-observability.md)
 * [Roteiro comportamental e narrativa de impacto](java-expert-consultation/05-behavioral-playbook.md)
+* [Rate Limiting para Java Expert](java-expert-consultation/06-rate-limiting-java-expert.md)
 
 
