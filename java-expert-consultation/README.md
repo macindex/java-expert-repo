@@ -9,6 +9,7 @@ Este conjunto foi organizado para estudo orientado a entrevista. A ideia é comb
 3. [Arquitetura, resiliência e idempotência](03-architecture-resilience.md)
 4. [Mensageria e observabilidade](04-messaging-observability.md)
 5. [Roteiro comportamental e narrativa de impacto](05-behavioral-playbook.md)
+6. [Rate Limiting para Java Expert](06-rate-limiting-java-expert.md)
 
 ## Como usar
 
